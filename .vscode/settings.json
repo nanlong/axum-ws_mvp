@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./examples/chat/Cargo.toml",
+        "./axum-ws/Cargo.toml"
+    ]
+}
