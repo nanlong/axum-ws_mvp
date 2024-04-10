@@ -16,4 +16,6 @@
 
 ## 例子
 
-请看 [Chat](./examples/chat/src/main.rs) 相关代码
+`cargo run -p example-chat`
+
+请看 [example-chat](./examples/chat/src/main.rs) 相关代码
